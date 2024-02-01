@@ -32,7 +32,6 @@ function cambiarImagenReina(selectElement) {
     });
 }
 
-
 function colocarReina(celda) {
     var temptable = document.getElementById("tabla");
     var renglon = celda.parentElement.rowIndex;
